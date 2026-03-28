@@ -1,3 +1,9 @@
 UI Styling
 -Button animations on hover
 -Bug in the messages... throw error if the name/messages fields are empty
+-I want to be able to maximize pictures in gallery when clicked
+-UI coloring
+-In-app Fonts
+-coloring
+-Back Arrow as index
+-Leave messages... Saving messages in database with it being continually seen
